@@ -1,3 +1,3 @@
 # 42_GetNextLine
 
-https://github.com/BorjaGR/42_GetNextLine/issues/1#issue-563462158
+https://user-images.githubusercontent.com/17336024/74276488-1bd84900-4d16-11ea-84c5-a4aac006c36a.png
